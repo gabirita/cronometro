@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+
+# Arquivos JAR
+*.jar
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários de IDE
+.vscode/  # Visual Studio Code
+.idea/    # IntelliJ IDEA
+*.iml     # Arquivo de configuração do IntelliJ IDEA
+
+# Arquivos do sistema operacional
+.DS_Store  # Arquivo do macOS
+Thumbs.db  # Arquivo do Windows
+
+# Diretórios de build
+bin/       # Pasta onde os arquivos compilados podem ser gerados
+out/       # Pasta de saída (pode variar dependendo do seu IDE)
